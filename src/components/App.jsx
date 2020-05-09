@@ -21,7 +21,7 @@ function App() {
       </h1>
 
       <dl className="dictionary">
-        {emojipedia.map(createCard)};
+        {emojipedia.map(createCard)}
       </dl>
 
     </div>
